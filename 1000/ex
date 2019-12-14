@@ -1,0 +1,4 @@
+#!/bin/bash
+for i in {4-11}
+echo i
+
